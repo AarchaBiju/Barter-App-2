@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://m5-c6t.anonymous.barterapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.m5-c6t.anonymous.barterapp.exp.direct",
+  "ngrokPid": 17216,
+  "webpackServerPort": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "devToolsPort": 19002
+}
